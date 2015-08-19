@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Sportsmens xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Вадим</Name>
+  <Surname>Ахметов</Surname>
+  <Patronimyc>Маратович</Patronimyc>
+  <Gender>Male</Gender>
+  <razryad>КМС</razryad>
+  <DateofBithday>2015-04-10T22:32:58.5982689+05:00</DateofBithday>
+  <team>Дегтярск</team>
+  <Dost>
+    <DostData>
+      <Date>2015-04-10T22:33:32.3732007+05:00</Date>
+      <Start>лдтто</Start>
+      <finish>2</finish>
+      <Distantion>2</Distantion>
+    </DostData>
+    <DostData>
+      <Date>2015-04-10T22:33:39.1385876+05:00</Date>
+      <Start>толтотлои</Start>
+      <finish>22</finish>
+      <Distantion>22</Distantion>
+    </DostData>
+  </Dost>
+</Sportsmens>

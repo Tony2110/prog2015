@@ -1,0 +1,12 @@
+c:\users\виктория\documents\visual studio 2013\Projects\Findnumber\Findnumber\bin\Debug\Findnumber.exe.config
+c:\users\виктория\documents\visual studio 2013\Projects\Findnumber\Findnumber\bin\Debug\Findnumber.exe
+c:\users\виктория\documents\visual studio 2013\Projects\Findnumber\Findnumber\bin\Debug\Findnumber.pdb
+c:\users\виктория\documents\visual studio 2013\Projects\Findnumber\Findnumber\obj\Debug\Findnumber.csprojResolveAssemblyReference.cache
+c:\users\виктория\documents\visual studio 2013\Projects\Findnumber\Findnumber\obj\Debug\Findnumber.exe
+c:\users\виктория\documents\visual studio 2013\Projects\Findnumber\Findnumber\obj\Debug\Findnumber.pdb
+C:\Users\Виктория\Desktop\Findnumber\Findnumber\bin\Debug\Findnumber.exe.config
+C:\Users\Виктория\Desktop\Findnumber\Findnumber\obj\Debug\Findnumber.exe
+C:\Users\Виктория\Desktop\Findnumber\Findnumber\obj\Debug\Findnumber.pdb
+C:\Users\Виктория\Desktop\Findnumber\Findnumber\bin\Debug\Findnumber.exe
+C:\Users\Виктория\Desktop\Findnumber\Findnumber\bin\Debug\Findnumber.pdb
+C:\Users\Виктория\Desktop\Findnumber\Findnumber\obj\Debug\Findnumber.csprojResolveAssemblyReference.cache

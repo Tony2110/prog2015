@@ -1,0 +1,12 @@
+Shchepetkin Sergey
+
+Labs: A1 A2 A3 C1 D1
+
+https://github.com/Volokolam/prog2015/commit/3c0467fbfa8a65bd43c5ddd1b94e6bb7a3377b1a
+
+https://github.com/Volokolam/prog2015/commit/a86f78bf847a2d17a5925bef6e2a33a1886f59f0
+
+https://github.com/Volokolam/prog2015/commit/ba769d838de0f2a75a337e880dc04b0efff608d3
+
+expected mark: 5(five)
+

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<PassportData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Данил</Name>
+  <Surname>Ахметов</Surname>
+  <Patronimyc>Маратович</Patronimyc>
+  <Gender>Male</Gender>
+  <Employments>
+    <EmploymentData>
+      <Start>2015-04-08T15:31:33.0914537+05:00</Start>
+      <End>2015-04-08T15:31:32.9614462+05:00</End>
+      <Name>ввввооо</Name>
+      <Address>ооооооо</Address>
+    </EmploymentData>
+    <EmploymentData>
+      <Start>2015-04-08T15:31:39.8438399+05:00</Start>
+      <End>2015-04-08T15:31:39.8328393+05:00</End>
+      <Name>ощзошоооо</Name>
+      <Address>шооиищ</Address>
+    </EmploymentData>
+  </Employments>
+</PassportData>

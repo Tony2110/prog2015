@@ -1,0 +1,17 @@
+c:\users\ваня\documents\visual studio 2013\Projects\Погода\Погода\bin\Debug\Погода.exe.config
+c:\users\ваня\documents\visual studio 2013\Projects\Погода\Погода\bin\Debug\Погода.exe
+c:\users\ваня\documents\visual studio 2013\Projects\Погода\Погода\bin\Debug\Погода.pdb
+c:\users\ваня\documents\visual studio 2013\Projects\Погода\Погода\obj\Debug\Погода.csprojResolveAssemblyReference.cache
+c:\users\ваня\documents\visual studio 2013\Projects\Погода\Погода\obj\Debug\Погода.Form1.resources
+c:\users\ваня\documents\visual studio 2013\Projects\Погода\Погода\obj\Debug\Погода.Properties.Resources.resources
+c:\users\ваня\documents\visual studio 2013\Projects\Погода\Погода\obj\Debug\Погода.csproj.GenerateResource.Cache
+c:\users\ваня\documents\visual studio 2013\Projects\Погода\Погода\obj\Debug\Погода.exe
+c:\users\ваня\documents\visual studio 2013\Projects\Погода\Погода\obj\Debug\Погода.pdb
+C:\Users\Ваня\documents\visual studio 2013\Projects\Погода\Погода\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Ваня\documents\visual studio 2013\Projects\Погода\Погода\obj\Debug\Погода.csproj.ResolveComReference.cache
+C:\Users\Ваня\Documents\Visual Studio 2013\Projects\Погода\Погода\bin\Debug\Погода.exe.manifest
+C:\Users\Ваня\Documents\Visual Studio 2013\Projects\Погода\Погода\bin\Debug\Погода.application
+C:\Users\Ваня\Documents\Visual Studio 2013\Projects\Погода\Погода\obj\Debug\Погода.exe.manifest
+C:\Users\Ваня\Documents\Visual Studio 2013\Projects\Погода\Погода\obj\Debug\Погода.application
+C:\Users\Ваня\Documents\Visual Studio 2013\Projects\Погода\Погода\obj\Debug\Погода.AddForm.resources
+C:\Users\Ваня\documents\visual studio 2013\Projects\Погода\Погода\obj\Debug\Погода.g.resources

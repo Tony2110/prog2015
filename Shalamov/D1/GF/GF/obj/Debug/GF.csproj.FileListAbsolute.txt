@@ -1,0 +1,9 @@
+c:\users\ваня\documents\visual studio 2013\Projects\GF\GF\bin\Debug\GF.exe.config
+c:\users\ваня\documents\visual studio 2013\Projects\GF\GF\obj\Debug\GF.csprojResolveAssemblyReference.cache
+c:\users\ваня\documents\visual studio 2013\Projects\GF\GF\obj\Debug\GF.Form1.resources
+c:\users\ваня\documents\visual studio 2013\Projects\GF\GF\obj\Debug\GF.Properties.Resources.resources
+c:\users\ваня\documents\visual studio 2013\Projects\GF\GF\obj\Debug\GF.csproj.GenerateResource.Cache
+c:\users\ваня\documents\visual studio 2013\Projects\GF\GF\bin\Debug\GF.exe
+c:\users\ваня\documents\visual studio 2013\Projects\GF\GF\bin\Debug\GF.pdb
+c:\users\ваня\documents\visual studio 2013\Projects\GF\GF\obj\Debug\GF.exe
+c:\users\ваня\documents\visual studio 2013\Projects\GF\GF\obj\Debug\GF.pdb

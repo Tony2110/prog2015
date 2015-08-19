@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatCen", "MatCen\MatCen.csproj", "{6C74F5D3-FFA9-44C1-964C-031CAB3F2C5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMatCen", "DXApplication1\WebMatCen\WebMatCen.csproj", "{624D62CD-2AAC-4357-BE35-C45D4FACBE42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C74F5D3-FFA9-44C1-964C-031CAB3F2C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C74F5D3-FFA9-44C1-964C-031CAB3F2C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C74F5D3-FFA9-44C1-964C-031CAB3F2C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C74F5D3-FFA9-44C1-964C-031CAB3F2C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{624D62CD-2AAC-4357-BE35-C45D4FACBE42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624D62CD-2AAC-4357-BE35-C45D4FACBE42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624D62CD-2AAC-4357-BE35-C45D4FACBE42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624D62CD-2AAC-4357-BE35-C45D4FACBE42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+c:\users\tantal\documents\visual studio 2013\Projects\FindTheNumber\FindTheNumber\bin\Debug\FindTheNumber.exe.config
+c:\users\tantal\documents\visual studio 2013\Projects\FindTheNumber\FindTheNumber\bin\Debug\FindTheNumber.exe
+c:\users\tantal\documents\visual studio 2013\Projects\FindTheNumber\FindTheNumber\bin\Debug\FindTheNumber.pdb
+c:\users\tantal\documents\visual studio 2013\Projects\FindTheNumber\FindTheNumber\obj\Debug\FindTheNumber.csprojResolveAssemblyReference.cache
+c:\users\tantal\documents\visual studio 2013\Projects\FindTheNumber\FindTheNumber\obj\Debug\FindTheNumber.exe
+c:\users\tantal\documents\visual studio 2013\Projects\FindTheNumber\FindTheNumber\obj\Debug\FindTheNumber.pdb

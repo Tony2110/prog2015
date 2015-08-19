@@ -1,0 +1,12 @@
+C:\Users\Ваня\Desktop\A2,A3 — копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ваня\Desktop\A2,A3 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ваня\Desktop\A2,A3 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ваня\Desktop\A2,A3 — копия\WindowsFormsApplication2\obj\Debug\WFqwerty_test.csprojResolveAssemblyReference.cache
+C:\Users\Ваня\Desktop\A2,A3 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\Ваня\Desktop\A2,A3 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ваня\Desktop\A2,A3 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.QF.resources
+C:\Users\Ваня\Desktop\A2,A3 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.XtraReport1.resources
+C:\Users\Ваня\Desktop\A2,A3 — копия\WindowsFormsApplication2\obj\Debug\WFqwerty_test.csproj.GenerateResource.Cache
+C:\Users\Ваня\Desktop\A2,A3 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.licenses
+C:\Users\Ваня\Desktop\A2,A3 — копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ваня\Desktop\A2,A3 — копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb

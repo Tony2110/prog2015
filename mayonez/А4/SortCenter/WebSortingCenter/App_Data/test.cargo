@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<CargoData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Worker>Сухенко Дмитрий Сергеевич</Worker>
+  <Arriving>2015-03-11T15:33:05</Arriving>
+  <Number>YG6YH8IJ6RE5</Number>
+  <Postman>Велимович Милена Виталиевна</Postman>
+  <Meow>
+    <InsideData>
+      <Name>Пицца</Name>
+      <Weight>78 кг</Weight>
+      <Words />
+    </InsideData>
+    <InsideData>
+      <Name>Болты</Name>
+      <Weight>7 г</Weight>
+      <Words />
+    </InsideData>
+    <InsideData>
+      <Name>Шурупы</Name>
+      <Weight>88 кг</Weight>
+      <Words>Сорвана резьба!</Words>
+    </InsideData>
+  </Meow>
+</CargoData>

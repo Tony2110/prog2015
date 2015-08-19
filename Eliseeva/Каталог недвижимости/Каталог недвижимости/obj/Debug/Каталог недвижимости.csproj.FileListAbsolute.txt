@@ -1,0 +1,57 @@
+c:\users\иван\Documents\Visual Studio 2013\Projects\Каталог недвижимости\Каталог недвижимости\bin\Debug\Каталог недвижимости.exe.config
+c:\users\иван\Documents\Visual Studio 2013\Projects\Каталог недвижимости\Каталог недвижимости\bin\Debug\Каталог недвижимости.exe
+c:\users\иван\Documents\Visual Studio 2013\Projects\Каталог недвижимости\Каталог недвижимости\bin\Debug\Каталог недвижимости.pdb
+c:\users\иван\Documents\Visual Studio 2013\Projects\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог недвижимости.csprojResolveAssemblyReference.cache
+c:\users\иван\Documents\Visual Studio 2013\Projects\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог_недвижимости.Form1.resources
+c:\users\иван\Documents\Visual Studio 2013\Projects\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог_недвижимости.Properties.Resources.resources
+c:\users\иван\Documents\Visual Studio 2013\Projects\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог недвижимости.csproj.GenerateResource.Cache
+c:\users\иван\Documents\Visual Studio 2013\Projects\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог недвижимости.exe
+c:\users\иван\Documents\Visual Studio 2013\Projects\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог недвижимости.pdb
+C:\Users\Виктория\Desktop\Каталог недвижимости\bin\Debug\Каталог недвижимости.exe.config
+C:\Users\Виктория\Desktop\Каталог недвижимости\obj\Debug\Каталог недвижимости.exe
+C:\Users\Виктория\Desktop\Каталог недвижимости\obj\Debug\Каталог недвижимости.pdb
+C:\Users\Виктория\Desktop\Каталог недвижимости\bin\Debug\Каталог недвижимости.exe
+C:\Users\Виктория\Desktop\Каталог недвижимости\bin\Debug\Каталог недвижимости.pdb
+C:\Users\Виктория\Desktop\Каталог недвижимости\obj\Debug\Каталог недвижимости.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\Desktop\Каталог недвижимости\obj\Debug\Каталог_недвижимости.Form1.resources
+C:\Users\Виктория\Desktop\Каталог недвижимости\obj\Debug\Каталог_недвижимости.Properties.Resources.resources
+C:\Users\Виктория\Desktop\Каталог недвижимости\obj\Debug\Каталог недвижимости.csproj.GenerateResource.Cache
+C:\Users\CHORBIER\Downloads\Каталог недвижимости\Каталог недвижимости\bin\Debug\Каталог недвижимости.exe.config
+C:\Users\CHORBIER\Downloads\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог недвижимости.exe
+C:\Users\CHORBIER\Downloads\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог недвижимости.pdb
+C:\Users\Лёха\Desktop\Каталог недвижимости\Каталог недвижимости\bin\Debug\Каталог недвижимости.exe.config
+C:\Users\Лёха\Desktop\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог недвижимости.exe
+C:\Users\Лёха\Desktop\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог недвижимости.pdb
+C:\Users\Лёха\Desktop\Каталог недвижимости\Каталог недвижимости\bin\Debug\Каталог недвижимости.exe
+C:\Users\Лёха\Desktop\Каталог недвижимости\Каталог недвижимости\bin\Debug\Каталог недвижимости.pdb
+C:\Users\Лёха\Desktop\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог недвижимости.csprojResolveAssemblyReference.cache
+C:\Users\Лёха\Desktop\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог_недвижимости.Form1.resources
+C:\Users\Лёха\Desktop\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог_недвижимости.Properties.Resources.resources
+C:\Users\Лёха\Desktop\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог недвижимости.csproj.GenerateResource.Cache
+C:\Users\Ваня\Desktop\Каталог недвижимости\Каталог недвижимости\bin\Debug\Каталог недвижимости.exe.config
+C:\Users\Ваня\Desktop\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог недвижимости.exe
+C:\Users\Ваня\Desktop\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог недвижимости.pdb
+C:\Users\Ваня\Desktop\Каталог недвижимости\Каталог недвижимости\bin\Debug\Каталог недвижимости.exe
+C:\Users\Ваня\Desktop\Каталог недвижимости\Каталог недвижимости\bin\Debug\Каталог недвижимости.pdb
+C:\Users\Ваня\Desktop\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог_недвижимости.Form1.resources
+C:\Users\Ваня\Desktop\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог_недвижимости.Properties.Resources.resources
+C:\Users\Ваня\Desktop\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог недвижимости.csproj.GenerateResource.Cache
+C:\Users\Ваня\Desktop\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог недвижимости.exe.licenses
+C:\Users\Ваня\Desktop\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог_недвижимости.FReport.resources
+C:\Users\Ваня\Desktop\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог_недвижимости.HReport.resources
+C:\Users\Ваня\Desktop\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог_недвижимости.LReport.resources
+C:\Users\Ваня\Desktop\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог_недвижимости.LbReport.resources
+F:\Каталог недвижимости\Каталог недвижимости\bin\Debug\Каталог недвижимости.exe.config
+F:\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог недвижимости.exe
+F:\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог недвижимости.pdb
+F:\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог недвижимости.csprojResolveAssemblyReference.cache
+F:\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог_недвижимости.Form1.resources
+F:\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог_недвижимости.FReport.resources
+F:\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог_недвижимости.HReport.resources
+F:\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог_недвижимости.LbReport.resources
+F:\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог_недвижимости.LReport.resources
+F:\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог_недвижимости.Properties.Resources.resources
+F:\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог недвижимости.csproj.GenerateResource.Cache
+F:\Каталог недвижимости\Каталог недвижимости\obj\Debug\Каталог недвижимости.exe.licenses
+F:\Каталог недвижимости\Каталог недвижимости\bin\Debug\Каталог недвижимости.exe
+F:\Каталог недвижимости\Каталог недвижимости\bin\Debug\Каталог недвижимости.pdb

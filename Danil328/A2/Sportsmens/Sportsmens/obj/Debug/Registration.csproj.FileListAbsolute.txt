@@ -1,0 +1,50 @@
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\bin\Debug\Registration.exe.config
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\bin\Debug\Registration.exe
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\bin\Debug\Registration.pdb
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\obj\Debug\Sportsmens.EmploymentForm.resources
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\obj\Debug\Sportsmens.Form1.resources
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\obj\Debug\Registration.Properties.Resources.resources
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\obj\Debug\Registration.csproj.GenerateResource.Cache
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\obj\Debug\Registration.exe
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\obj\Debug\Registration.pdb
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\obj\Debug\Registration.csprojResolveAssemblyReference.cache
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Sportsmens\Sportsmens\bin\Debug\Registration.exe.config
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Sportsmens\Sportsmens\obj\Debug\Registration.exe
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Sportsmens\Sportsmens\obj\Debug\Registration.pdb
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Sportsmens\Sportsmens\bin\Debug\Registration.exe
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Sportsmens\Sportsmens\bin\Debug\Registration.pdb
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Sportsmens\Sportsmens\obj\Debug\Registration.csprojResolveAssemblyReference.cache
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Sportsmens\Sportsmens\obj\Debug\Sportsmens.Form1.resources
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Sportsmens\Sportsmens\obj\Debug\Registration.Properties.Resources.resources
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Sportsmens\Sportsmens\obj\Debug\Registration.csproj.GenerateResource.Cache
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Sportsmens\Sportsmens\obj\Debug\Sportsmens.DostForm.resources
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\Sportsmens\Sportsmens\bin\Debug\Registration.exe.config
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\Sportsmens\Sportsmens\obj\Debug\Registration.exe
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\Sportsmens\Sportsmens\obj\Debug\Registration.pdb
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\Sportsmens\Sportsmens\bin\Debug\Registration.exe
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\Sportsmens\Sportsmens\bin\Debug\Registration.pdb
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\Sportsmens\Sportsmens\obj\Debug\Registration.csprojResolveAssemblyReference.cache
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\Sportsmens\Sportsmens\obj\Debug\Sportsmens.DostForm.resources
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\Sportsmens\Sportsmens\obj\Debug\Sportsmens.Form1.resources
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\Sportsmens\Sportsmens\obj\Debug\Registration.Properties.Resources.resources
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\Sportsmens\Sportsmens\obj\Debug\Registration.csproj.GenerateResource.Cache
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\A2\Sportsmens\Sportsmens\bin\Debug\Registration.exe.config
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\A2\Sportsmens\Sportsmens\obj\Debug\Registration.exe
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\A2\Sportsmens\Sportsmens\obj\Debug\Registration.pdb
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\A2\Sportsmens\Sportsmens\bin\Debug\Registration.exe
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\A2\Sportsmens\Sportsmens\bin\Debug\Registration.pdb
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\A2\Sportsmens\Sportsmens\obj\Debug\Registration.csprojResolveAssemblyReference.cache
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\A2\Sportsmens\Sportsmens\obj\Debug\Sportsmens.DostForm.resources
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\A2\Sportsmens\Sportsmens\obj\Debug\Sportsmens.Form1.resources
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\A2\Sportsmens\Sportsmens\obj\Debug\Registration.Properties.Resources.resources
+C:\Users\Данил\YandexDisk\Институт\2 курс\Программирование\A2\Sportsmens\Sportsmens\obj\Debug\Registration.csproj.GenerateResource.Cache
+C:\Users\Danil\Программирование1\prog2015\A2\Sportsmens\Sportsmens\bin\Debug\Registration.exe.config
+C:\Users\Danil\Программирование1\prog2015\A2\Sportsmens\Sportsmens\obj\Debug\Registration.exe
+C:\Users\Danil\Программирование1\prog2015\A2\Sportsmens\Sportsmens\obj\Debug\Registration.pdb
+C:\Users\Danil\Программирование1\prog2015\A2\Sportsmens\Sportsmens\bin\Debug\Registration.exe
+C:\Users\Danil\Программирование1\prog2015\A2\Sportsmens\Sportsmens\bin\Debug\Registration.pdb
+C:\Users\Danil\Программирование1\prog2015\A2\Sportsmens\Sportsmens\obj\Debug\Registration.csprojResolveAssemblyReference.cache
+C:\Users\Danil\Программирование1\prog2015\A2\Sportsmens\Sportsmens\obj\Debug\Sportsmens.DostForm.resources
+C:\Users\Danil\Программирование1\prog2015\A2\Sportsmens\Sportsmens\obj\Debug\Sportsmens.Form1.resources
+C:\Users\Danil\Программирование1\prog2015\A2\Sportsmens\Sportsmens\obj\Debug\Registration.Properties.Resources.resources
+C:\Users\Danil\Программирование1\prog2015\A2\Sportsmens\Sportsmens\obj\Debug\Registration.csproj.GenerateResource.Cache

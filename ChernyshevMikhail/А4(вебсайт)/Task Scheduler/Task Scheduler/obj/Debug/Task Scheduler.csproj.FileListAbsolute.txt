@@ -1,0 +1,51 @@
+c:\users\tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Task Scheduler.exe.config
+c:\users\tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Task Scheduler.exe
+c:\users\tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Task Scheduler.pdb
+c:\users\tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task Scheduler.csprojResolveAssemblyReference.cache
+c:\users\tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task_Scheduler.Form1.resources
+c:\users\tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task_Scheduler.Properties.Resources.resources
+c:\users\tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task Scheduler.csproj.GenerateResource.Cache
+c:\users\tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task Scheduler.exe
+c:\users\tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task Scheduler.pdb
+C:\Users\Tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task_Scheduler.NoNoMessageBox.resources
+C:\Users\Tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task_Scheduler.TaskForm.resources
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task_Scheduler.ProfilesForm.resources
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task_Scheduler.ErrorPF.resources
+C:\Users\Tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task_Scheduler.EmptyError.resources
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task Scheduler.exe.licenses
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task_Scheduler.Report.resources
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\WebScheduler.dll
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\System.Web.Mvc.dll
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\System.Web.Optimization.dll
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Owin.dll
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Microsoft.Owin.dll
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\EntityFramework.dll
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\System.Web.Razor.dll
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\System.Web.WebPages.dll
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\WebScheduler.pdb
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\System.Web.Mvc.xml
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\System.Web.Optimization.xml
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Microsoft.Owin.xml
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\EntityFramework.xml
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\System.Web.Razor.xml
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\System.Web.WebPages.xml
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Newtonsoft.Json.xml

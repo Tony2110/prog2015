@@ -1,0 +1,6 @@
+C:\Users\Дарья Курочкина\Documents\Visual Studio 2013\Projects\Угадывание числа\Угадывание числа\bin\Debug\Угадывание числа.exe.config
+C:\Users\Дарья Курочкина\Documents\Visual Studio 2013\Projects\Угадывание числа\Угадывание числа\bin\Debug\Угадывание числа.exe
+C:\Users\Дарья Курочкина\Documents\Visual Studio 2013\Projects\Угадывание числа\Угадывание числа\bin\Debug\Угадывание числа.pdb
+C:\Users\Дарья Курочкина\Documents\Visual Studio 2013\Projects\Угадывание числа\Угадывание числа\obj\Debug\Угадывание числа.csprojResolveAssemblyReference.cache
+C:\Users\Дарья Курочкина\Documents\Visual Studio 2013\Projects\Угадывание числа\Угадывание числа\obj\Debug\Угадывание числа.exe
+C:\Users\Дарья Курочкина\Documents\Visual Studio 2013\Projects\Угадывание числа\Угадывание числа\obj\Debug\Угадывание числа.pdb

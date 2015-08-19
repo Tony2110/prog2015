@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "Домашняя страница";
+}
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>@ViewBag.Title.</h1>
+                <h2>@ViewBag.Message</h2>
+            </hgroup>
+        </div>
+    </section>
+}
+
+<div>
+    @Html.Label("Имя:")
+    @Model.name
+</div>
+<div>
+    @Html.Label("Фамилия:")
+    @Model.surname
+</div>
+<div>
+    @Html.Label("Адрес:")
+    @Model.place
+</div>
+<div>
+    @Html.Label("Дата доставки:")
+    @Model.time
+</div>
+<div>
+    @Html.Label("Комиксы:")
+</div>
+@foreach (var ComicData in Model.Comic)
+{
+    <div>
+        @ComicData
+    </div>
+}
+<form id="Comic" action="/home/upload" method="post" enctype="multipart/form-data">
+    <input type="file" name="file" id="file" />
+    <button type="submit">
+        Загрузить файл
+    </button>
+</form>

@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div>
+    @Html.Label("Описание программы:")
+    @Model.description
+</div>
+
+
+@foreach (var IngrData in Model.Spisok)
+{
+    <div>
+        @IngrData
+    </div>
+}
+
+<form id="Dost" action="/home/upload" method="post" enctype="multipart/form-data">
+    <input type="file" name="file" id="file" />
+    <button type="submit">
+        Загрузить файл
+    </button>
+</form>

@@ -1,0 +1,16 @@
+c:\users\tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Task Scheduler.exe.config
+c:\users\tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Task Scheduler.exe
+c:\users\tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\bin\Debug\Task Scheduler.pdb
+c:\users\tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task Scheduler.csprojResolveAssemblyReference.cache
+c:\users\tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task_Scheduler.Form1.resources
+c:\users\tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task_Scheduler.Properties.Resources.resources
+c:\users\tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task Scheduler.csproj.GenerateResource.Cache
+c:\users\tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task Scheduler.exe
+c:\users\tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task Scheduler.pdb
+C:\Users\Tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task_Scheduler.NoNoMessageBox.resources
+C:\Users\Tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task_Scheduler.TaskForm.resources
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task_Scheduler.ProfilesForm.resources
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task_Scheduler.ErrorPF.resources
+C:\Users\Tantal\documents\visual studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task_Scheduler.EmptyError.resources
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task Scheduler.exe.licenses
+C:\Users\Tantal\Documents\Visual Studio 2013\Projects\Task Scheduler\Task Scheduler\obj\Debug\Task_Scheduler.Report.resources

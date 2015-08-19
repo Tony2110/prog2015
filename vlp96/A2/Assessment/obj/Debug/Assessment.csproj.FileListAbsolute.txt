@@ -1,0 +1,13 @@
+C:\Users\Владимир\Desktop\Assessment\Assessment\bin\Debug\Assessment.exe.config
+C:\Users\Владимир\Desktop\Assessment\Assessment\bin\Debug\Assessment.exe
+C:\Users\Владимир\Desktop\Assessment\Assessment\bin\Debug\Assessment.pdb
+C:\Users\Владимир\Desktop\Assessment\Assessment\obj\Debug\Assessment.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\Assessment\Assessment\obj\Debug\Assessment.Form1.resources
+C:\Users\Владимир\Desktop\Assessment\Assessment\obj\Debug\Assessment.Properties.Resources.resources
+C:\Users\Владимир\Desktop\Assessment\Assessment\obj\Debug\Assessment.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\Assessment\Assessment\obj\Debug\Assessment.exe
+C:\Users\Владимир\Desktop\Assessment\Assessment\obj\Debug\Assessment.pdb
+C:\Users\Владимир\Desktop\Assessment\Assessment\obj\Debug\Assessment.ExamsForm.resources
+C:\Users\Владимир\Desktop\prog2015\vlp96\A2\Assessment\bin\Debug\Assessment.exe.config
+C:\Users\Владимир\Desktop\prog2015\vlp96\A2\Assessment\obj\Debug\Assessment.exe
+C:\Users\Владимир\Desktop\prog2015\vlp96\A2\Assessment\obj\Debug\Assessment.pdb

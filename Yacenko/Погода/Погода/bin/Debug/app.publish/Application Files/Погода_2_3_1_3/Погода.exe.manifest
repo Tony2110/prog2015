@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Погода.exe" version="2.3.1.3" publicKeyToken="e04cfad951ec6c7d" language="ru-RU" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Resources\rain.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Погода" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Погода.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          При необходимости изменить уровень управления учетными записями Windows замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если вы хотите использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Погода.exe" size="291328">
+      <assemblyIdentity name="Погода" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>aQVpWUBt4XN3yHx2N0l64Ea357JqDo/3xLsXjUBFCmU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Resources\rain.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fmyjTnFHgT+QAuGYeW9OTse9p1xhbxWfbHsEFlaCCak=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Погода.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=HODEN\Ваня" issuerKeyHash="0367c21abf07af22d6d5decadaf4ea523961db01" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Ogmmnl52m+BJunPWIZ0qWAiiZbWnrO8kZswMuPTxR8M=</DigestValue></Reference></SignedInfo><SignatureValue>U4UPS2giM65zLC7ZNppwE463sCKoTlWW8Xrnz+iTy+znj7t6RmlhLq3zamI6HUL6yPslUAMpsCY4+iSsk24Egd9oRmM8l4LWV7CKD5VX651TgVULGVD7VVgepZtavopxTh4rG8eB/fA9jeRi3AegrcKCQo6pVG0MRBZWokeZ1ws=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>z7eUH1Ec0Dnx9qfL/MuMNCW9vMCadXUWX4QXkKBWLpXg7cfMKfnRKxm35yKSY332uLDXKc3t55RMn8Z5Rm0DjjdUzmTdjDqYJyijW+RQAaEvQdQubjjKXoBwISjo91ToXXNYwy3nS6EiDTBM01KzmR3/7DwhhPUvNGBA0mqqMnU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="c347f1f4b80ccc6624efaca7b565a208582a9d21d673ba49e09b765e9ea6093a" Description="" Url=""><as:assemblyIdentity name="Погода.exe" version="2.3.1.3" publicKeyToken="e04cfad951ec6c7d" language="ru-RU" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=HODEN\Ваня</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>2WhSpihILAT89sRg99DIW7J2yr3tHkrX1CQMnJkrUtM=</DigestValue></Reference></SignedInfo><SignatureValue>o62rSnb1nyaKy2QV3FxZeYuryAIM3k/CFRToDz9EChOwPzFdyBgrfo4Cyn5ETSZp9XiQ84eRpKBDCW7b213tfAucYJ6np5386SEvLlyFZljObyolOi76orfNB3vQ3vSBIEd63S/KaswTgPjSIU/XRHpRuj4CFtSiPMeagTuFmR0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>z7eUH1Ec0Dnx9qfL/MuMNCW9vMCadXUWX4QXkKBWLpXg7cfMKfnRKxm35yKSY332uLDXKc3t55RMn8Z5Rm0DjjdUzmTdjDqYJyijW+RQAaEvQdQubjjKXoBwISjo91ToXXNYwy3nS6EiDTBM01KzmR3/7DwhhPUvNGBA0mqqMnU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBwTCCASqgAwIBAgIQKV3pU4xfAopAaM22MOrbrDANBgkqhkiG9w0BAQsFADAfMR0wGwYDVQQDHhQASABPAEQARQBOAFwEEgQwBD0ETzAeFw0xNTA1MDUxMDQ2MDhaFw0xNjA1MDQxNjQ2MDhaMB8xHTAbBgNVBAMeFABIAE8ARABFAE4AXAQSBDAEPQRPMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDPt5QfURzQOfH2p8v8y4w0Jb28wJp1dRZfhBeQoFYuleDtx8wp+dErGbfnIpJjffa4sNcpze3nlEyfxnlGbQOON1TOZN2MOpgnKKNb5FABoS9B1C5uOMpegHAhKOj3VOhdc1jDLedLoSINMEzTUrOZHf/sPCGE9S80YEDSaqoydQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAJCV/SE/PioPMA932hVTmG3NiVPj4TUP0a2YSLF8IbNKto/SHQxfNb2G3Rux0rv32kulCWAZyCgLMThohnQezUzGA+QNQAjyuKLsvqNTyklWQRU0lgA2lr+RLqhN8RIrEhSyR3Z2rbqq8FIwcBejmdBhupnXDyWu2vP6+NOx/UMP</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Zakaz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Имя</name>
+  <surname>Фамилия</surname>
+  <place>Адрес</place>
+  <time>2015-03-31T00:00:00</time>
+  <Comic>
+    <ComicData>
+      <publishing>DC</publishing>
+      <names>бб</names>
+      <number>1</number>
+    </ComicData>
+    <ComicData>
+      <publishing>Marvel</publishing>
+      <names>ж</names>
+      <number>3</number>
+    </ComicData>
+    <ComicData>
+      <publishing>Dark Horse</publishing>
+      <names>зв</names>
+      <number>3</number>
+    </ComicData>
+  </Comic>
+</Zakaz>

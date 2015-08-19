@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<CargoData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Worker>123</Worker>
+  <Arriving>2015-03-22T00:00:00</Arriving>
+  <Number>2222</Number>
+  <Postman>sdfsdfsdf</Postman>
+  <Meow>
+    <InsideData>
+      <Name>ssdfsdf</Name>
+      <Weight>sdfsdfsdf</Weight>
+      <Words>sdfsdf</Words>
+    </InsideData>
+  </Meow>
+</CargoData>

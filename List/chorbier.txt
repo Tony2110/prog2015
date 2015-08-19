@@ -1,0 +1,10 @@
+A2
+https://github.com/chorbier/prog2015/commit/1c3d92a1b24aa3e9ad7469ac9db72f5b0901bfdf
+A3
+https://github.com/chorbier/prog2015/commit/da9a214f51d0e9d99660b36395732bea9b50b368
+C1
+https://github.com/chorbier/prog2015/commit/16618a487e4ec0d3d47d4c2d79891f15cbdeda20
+D1
+https://github.com/chorbier/prog2015/commit/b1a33a593209ec9b05b56d3a01e9835f618a95e4
+
+ожидается 5ка

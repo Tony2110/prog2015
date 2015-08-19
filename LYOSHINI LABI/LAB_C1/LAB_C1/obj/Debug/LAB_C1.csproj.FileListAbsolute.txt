@@ -1,0 +1,6 @@
+c:\users\лёха\documents\visual studio 2013\Projects\LAB_C1\LAB_C1\bin\Debug\LAB_C1.exe.config
+c:\users\лёха\documents\visual studio 2013\Projects\LAB_C1\LAB_C1\bin\Debug\LAB_C1.exe
+c:\users\лёха\documents\visual studio 2013\Projects\LAB_C1\LAB_C1\bin\Debug\LAB_C1.pdb
+c:\users\лёха\documents\visual studio 2013\Projects\LAB_C1\LAB_C1\obj\Debug\LAB_C1.csprojResolveAssemblyReference.cache
+c:\users\лёха\documents\visual studio 2013\Projects\LAB_C1\LAB_C1\obj\Debug\LAB_C1.exe
+c:\users\лёха\documents\visual studio 2013\Projects\LAB_C1\LAB_C1\obj\Debug\LAB_C1.pdb

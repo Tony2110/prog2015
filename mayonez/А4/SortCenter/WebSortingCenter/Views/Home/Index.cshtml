@@ -1,0 +1,34 @@
+﻿@{
+    ViewBag.Title = "SC";
+}
+<div>
+    @Html.Label("ФИО приемщика: ")
+    @Model.Worker
+</div>
+<div>
+    @Html.Label("Товар прибыл: ")
+    @Model.Arriving
+</div>
+<div>
+    @Html.Label("Индификатор товара: ")
+    @Model.Number
+</div>
+<div>
+    @Html.Label("ФИО курьера: ")
+    @Model.Postman
+</div>
+
+
+@foreach (var InsideData in Model.Meow)
+{
+    <div>
+        @InsideData
+    </div>
+}
+
+<form id="Dost" action="/home/upload" method="post" enctype="multipart/form-data">
+    <input type="file" name="file" id="file" />
+    <button type="submit">
+        Загрузить файл
+    </button>
+</form>

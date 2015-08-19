@@ -1,0 +1,19 @@
+c:\users\ваня\documents\visual studio 2013\Projects\FS\FS\bin\Debug\FS.exe.config
+c:\users\ваня\documents\visual studio 2013\Projects\FS\FS\bin\Debug\FS.exe
+c:\users\ваня\documents\visual studio 2013\Projects\FS\FS\bin\Debug\FS.pdb
+c:\users\ваня\documents\visual studio 2013\Projects\FS\FS\obj\Debug\FS.LogIn.resources
+c:\users\ваня\documents\visual studio 2013\Projects\FS\FS\obj\Debug\FS.Properties.Resources.resources
+c:\users\ваня\documents\visual studio 2013\Projects\FS\FS\obj\Debug\FS.csproj.GenerateResource.Cache
+c:\users\ваня\documents\visual studio 2013\Projects\FS\FS\obj\Debug\FS.exe
+c:\users\ваня\documents\visual studio 2013\Projects\FS\FS\obj\Debug\FS.pdb
+C:\Users\Ваня\documents\visual studio 2013\Projects\FS\FS\obj\Debug\FS.BannForm.resources
+C:\Users\Ваня\documents\visual studio 2013\Projects\FS\FS\obj\Debug\FS.Foulder.resources
+C:\Users\Ваня\documents\visual studio 2013\Projects\FS\FS\obj\Debug\FS.AdminForm.resources
+C:\Users\Ваня\documents\visual studio 2013\Projects\FS\FS\obj\Debug\FS.Adding.resources
+C:\Users\Ваня\documents\visual studio 2013\Projects\FS\FS\obj\Debug\FS.LogPre.resources
+C:\Users\Ваня\documents\visual studio 2013\Projects\FS\FS\obj\Debug\FS.exe.licenses
+C:\Users\Ваня\documents\visual studio 2013\Projects\FS\FS\obj\Debug\FS.csprojResolveAssemblyReference.cache
+C:\Users\Ваня\documents\visual studio 2013\Projects\FS\FS\obj\Debug\FS.XtraReport1.resources
+C:\Users\Ваня\Desktop\FS\FS\bin\Debug\FS.exe.config
+C:\Users\Ваня\Desktop\FS\FS\obj\Debug\FS.exe
+C:\Users\Ваня\Desktop\FS\FS\obj\Debug\FS.pdb

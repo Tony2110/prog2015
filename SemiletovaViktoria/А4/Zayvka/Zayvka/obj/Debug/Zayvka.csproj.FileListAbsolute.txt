@@ -1,0 +1,13 @@
+c:\users\джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\bin\Debug\Zayvka.exe.config
+c:\users\джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\bin\Debug\Zayvka.exe
+c:\users\джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\bin\Debug\Zayvka.pdb
+c:\users\джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\obj\Debug\Zayvka.csprojResolveAssemblyReference.cache
+c:\users\джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\obj\Debug\Zayvka.Form1.resources
+c:\users\джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\obj\Debug\Zayvka.Properties.Resources.resources
+c:\users\джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\obj\Debug\Zayvka.csproj.GenerateResource.Cache
+c:\users\джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\obj\Debug\Zayvka.exe
+c:\users\джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\obj\Debug\Zayvka.pdb
+C:\Users\Джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\obj\Debug\Zayvka.ComicForm.resources
+C:\Users\Джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\obj\Debug\Zayvka.MessageBox.resources
+C:\Users\Джарвис\Documents\Visual Studio 2012\Projects\Zayvka\Zayvka\obj\Debug\Zayvka.exe.licenses
+C:\Users\Джарвис\Documents\Visual Studio 2012\Projects\Zayvka\Zayvka\obj\Debug\Zayvka.zayvkaReport1.resources

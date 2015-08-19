@@ -1,0 +1,13 @@
+c:\users\илья\documents\visual studio 2013\Projects\Registration\Registration\bin\Debug\Registration.exe.config
+c:\users\илья\documents\visual studio 2013\Projects\Registration\Registration\bin\Debug\Registration.exe
+c:\users\илья\documents\visual studio 2013\Projects\Registration\Registration\bin\Debug\Registration.pdb
+c:\users\илья\documents\visual studio 2013\Projects\Registration\Registration\obj\Debug\Registration.csprojResolveAssemblyReference.cache
+c:\users\илья\documents\visual studio 2013\Projects\Registration\Registration\obj\Debug\Registration.Form1.resources
+c:\users\илья\documents\visual studio 2013\Projects\Registration\Registration\obj\Debug\Registration.Properties.Resources.resources
+c:\users\илья\documents\visual studio 2013\Projects\Registration\Registration\obj\Debug\Registration.csproj.GenerateResource.Cache
+c:\users\илья\documents\visual studio 2013\Projects\Registration\Registration\obj\Debug\Registration.exe
+c:\users\илья\documents\visual studio 2013\Projects\Registration\Registration\obj\Debug\Registration.pdb
+c:\users\илья\documents\visual studio 2013\Projects\Registration\Registration\obj\Debug\Registration.NoNoMessageBox.resources
+c:\users\илья\documents\visual studio 2013\Projects\Registration\Registration\obj\Debug\Registration.ConcertForm.resources
+C:\Users\Илья\Documents\Visual Studio 2013\Projects\Registration\Registration\obj\Debug\Registration.Report.resources
+C:\Users\Илья\Documents\Visual Studio 2013\Projects\Registration\Registration\obj\Debug\Registration.exe.licenses

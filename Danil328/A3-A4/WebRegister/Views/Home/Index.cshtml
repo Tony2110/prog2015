@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div>
+    @Html.Label("Фамилия:")
+    @Model.Surname
+</div>
+<div>
+    @Html.Label("Имя:")
+    @Model.Name
+</div>
+<div>
+    @Html.Label("Отчество:")
+    @Model.Patronimyc
+</div>
+<div>
+    @Html.Label("Пол:")
+    @Model.GenderInRussian
+</div>
+<div>
+    @Html.Label("Дата рождения:")
+    @Model.DateofBithday
+</div>
+<div>
+    @Html.Label("Разряд:")
+    @Model.razryad
+</div>
+<div>
+    @Html.Label("Команда:")
+    @Model.team
+</div>
+
+@foreach (var DostData in Model.Dost)
+{
+    <div>
+        @DostData
+    </div>
+}
+
+<form id="Dost" action="/home/upload" method="post" enctype="multipart/form-data">
+    <input type="file" name="file" id="file" />
+    <button type="submit">
+        Загрузить файл
+    </button>
+</form>

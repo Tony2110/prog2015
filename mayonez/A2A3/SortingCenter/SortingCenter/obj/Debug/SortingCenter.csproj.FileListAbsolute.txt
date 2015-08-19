@@ -1,0 +1,12 @@
+C:\Users\samsung\Desktop\SortingCenter\SortingCenter\bin\Debug\SortingCenter.exe.config
+C:\Users\samsung\Desktop\SortingCenter\SortingCenter\bin\Debug\SortingCenter.exe
+C:\Users\samsung\Desktop\SortingCenter\SortingCenter\bin\Debug\SortingCenter.pdb
+C:\Users\samsung\Desktop\SortingCenter\SortingCenter\obj\Debug\SortingCenter.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\SortingCenter\SortingCenter\obj\Debug\SortingCenter.Form1.resources
+C:\Users\samsung\Desktop\SortingCenter\SortingCenter\obj\Debug\SortingCenter.Properties.Resources.resources
+C:\Users\samsung\Desktop\SortingCenter\SortingCenter\obj\Debug\SortingCenter.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\SortingCenter\SortingCenter\obj\Debug\SortingCenter.exe
+C:\Users\samsung\Desktop\SortingCenter\SortingCenter\obj\Debug\SortingCenter.pdb
+C:\Users\samsung\Desktop\SortingCenter\SortingCenter\obj\Debug\SortingCenter.CargoInfo.resources
+C:\Users\samsung\Desktop\SortingCenter\SortingCenter\obj\Debug\SortingCenter.exe.licenses
+C:\Users\samsung\Desktop\SortingCenter\SortingCenter\obj\Debug\SortingCenter.CargoReport.resources

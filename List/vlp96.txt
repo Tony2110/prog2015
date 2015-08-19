@@ -1,0 +1,7 @@
+vlp96
+Петров Владимир, РИ-230401 
+Желаемая оценка - 5 
+A2 https://github.com/vlp96/prog2015/commit/b7c1c60349e6bcde8cdc0b852629e94f480ce4d9#commitcomment-10787325
+A3 https://github.com/vlp96/prog2015/commit/55184772d168673cca998e34328804fa953124fb#commitcomment-11338314
+C1 https://github.com/vlp96/prog2015/commit/4b7cee725c722f1c35f9a08c7dc1835cdd0f7c13#commitcomment-11556383
+D1 https://github.com/vlp96/prog2015/commit/2164540d368fb65cc67f50772e045b940579107b#commitcomment-11556381

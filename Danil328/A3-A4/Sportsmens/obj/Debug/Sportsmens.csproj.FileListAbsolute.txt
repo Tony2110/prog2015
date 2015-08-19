@@ -1,0 +1,11 @@
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\bin\Debug\Passport.exe.config
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\bin\Debug\Passport.exe
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\bin\Debug\Passport.pdb
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\obj\Debug\Passport.csprojResolveAssemblyReference.cache
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\obj\Debug\Passport.EmploymentForm.resources
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\obj\Debug\Passport.Form1.resources
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\obj\Debug\Passport.Properties.Resources.resources
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\obj\Debug\Passport.csproj.GenerateResource.Cache
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\obj\Debug\Passport.exe
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\obj\Debug\Passport.pdb
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\prog2015-master\A2\Passport\Passport\bin\Debug\Registration.exe.config

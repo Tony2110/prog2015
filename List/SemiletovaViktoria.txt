@@ -1,0 +1,3 @@
+A2 A3 https://github.com/SemiletovaViktoria/prog2015/commit/1b17c1e2876cfe92b5c053a7b6090f78bc0db860#commitcomment-10757766
+A4 C1 https://github.com/SemiletovaViktoria/prog2015/commit/d680566a9d89da9fabead4603e3e142e1705730c#commitcomment-11305534
+Good afternoon, the expected mark is 5

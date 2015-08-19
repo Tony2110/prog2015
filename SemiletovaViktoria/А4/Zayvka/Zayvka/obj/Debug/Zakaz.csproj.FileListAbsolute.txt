@@ -1,0 +1,11 @@
+C:\Users\Джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\bin\Debug\Zayvka.exe.config
+C:\Users\Джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\bin\Debug\Zayvka.exe
+C:\Users\Джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\bin\Debug\Zayvka.pdb
+C:\Users\Джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\obj\Debug\Zakaz.csprojResolveAssemblyReference.cache
+C:\Users\Джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\obj\Debug\Zayvka.Form1.resources
+C:\Users\Джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\obj\Debug\Zayvka.Properties.Resources.resources
+C:\Users\Джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\obj\Debug\Zakaz.csproj.GenerateResource.Cache
+C:\Users\Джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\obj\Debug\Zayvka.exe
+C:\Users\Джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\obj\Debug\Zayvka.pdb
+C:\Users\Джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\obj\Debug\Zayvka.ComicForm.resources
+C:\Users\Джарвис\documents\visual studio 2012\Projects\Zayvka\Zayvka\obj\Debug\Zayvka.MessageBox.resources

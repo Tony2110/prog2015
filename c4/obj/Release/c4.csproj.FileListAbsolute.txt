@@ -1,0 +1,5 @@
+c:\users\student\documents\visual studio 2013\Projects\c4\c4\bin\Release\c4.exe.config
+c:\users\student\documents\visual studio 2013\Projects\c4\c4\bin\Release\c4.exe
+c:\users\student\documents\visual studio 2013\Projects\c4\c4\bin\Release\c4.pdb
+c:\users\student\documents\visual studio 2013\Projects\c4\c4\obj\Release\c4.exe
+c:\users\student\documents\visual studio 2013\Projects\c4\c4\obj\Release\c4.pdb

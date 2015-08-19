@@ -1,0 +1,9 @@
+C:\Users\Лёха\Desktop\prog2015\LYOSHINI LABI\D1\D1\bin\Release\D1.exe.config
+C:\Users\Лёха\Desktop\prog2015\LYOSHINI LABI\D1\D1\obj\Release\D1.Form1.resources
+C:\Users\Лёха\Desktop\prog2015\LYOSHINI LABI\D1\D1\obj\Release\D1.Properties.Resources.resources
+C:\Users\Лёха\Desktop\prog2015\LYOSHINI LABI\D1\D1\obj\Release\D1.csproj.GenerateResource.Cache
+C:\Users\Лёха\Desktop\prog2015\LYOSHINI LABI\D1\D1\bin\Release\D1.exe
+C:\Users\Лёха\Desktop\prog2015\LYOSHINI LABI\D1\D1\bin\Release\D1.pdb
+C:\Users\Лёха\Desktop\prog2015\LYOSHINI LABI\D1\D1\obj\Release\D1.exe
+C:\Users\Лёха\Desktop\prog2015\LYOSHINI LABI\D1\D1\obj\Release\D1.pdb
+C:\Users\Лёха\Desktop\prog2015\LYOSHINI LABI\D1\D1\obj\Release\D1.csprojResolveAssemblyReference.cache

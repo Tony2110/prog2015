@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfCity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <City>
+    <Name>Екатеринбург</Name>
+    <ID>28440</ID>
+    <Call>Екатеринбурге</Call>
+  </City>
+  <City>
+    <Name>Москва</Name>
+    <ID>27612</ID>
+    <Call>Москве</Call>
+  </City>
+  <City>
+    <Name>Октябрьское</Name>
+    <ID>23734</ID>
+    <Call>Октябрьском</Call>
+  </City>
+</ArrayOfCity>

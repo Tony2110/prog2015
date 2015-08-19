@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Zakaz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name />
+  <surname />
+  <place />
+  <time>2015-03-23T21:10:52.7812826+05:00</time>
+  <Comic>
+    <ComicData>
+      <publishing>66</publishing>
+      <names />
+      <number>7</number>
+    </ComicData>
+    <ComicData>
+      <publishing />
+      <names />
+      <number>444</number>
+    </ComicData>
+  </Comic>
+</Zakaz>

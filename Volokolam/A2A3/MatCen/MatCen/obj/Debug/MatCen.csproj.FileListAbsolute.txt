@@ -1,0 +1,12 @@
+c:\users\сергей\documents\visual studio 2013\Projects\MatCen\MatCen\bin\Debug\MatCen.exe.config
+c:\users\сергей\documents\visual studio 2013\Projects\MatCen\MatCen\bin\Debug\MatCen.exe
+c:\users\сергей\documents\visual studio 2013\Projects\MatCen\MatCen\bin\Debug\MatCen.pdb
+c:\users\сергей\documents\visual studio 2013\Projects\MatCen\MatCen\obj\Debug\MatCen.Form1.resources
+c:\users\сергей\documents\visual studio 2013\Projects\MatCen\MatCen\obj\Debug\MatCen.Properties.Resources.resources
+c:\users\сергей\documents\visual studio 2013\Projects\MatCen\MatCen\obj\Debug\MatCen.csproj.GenerateResource.Cache
+c:\users\сергей\documents\visual studio 2013\Projects\MatCen\MatCen\obj\Debug\MatCen.exe
+c:\users\сергей\documents\visual studio 2013\Projects\MatCen\MatCen\obj\Debug\MatCen.pdb
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\MatCen\MatCen\obj\Debug\MatCen.MatForm.resources
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\MatCen\MatCen\obj\Debug\MatCen.exe.licenses
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\MatCen\MatCen\obj\Debug\MatCen.MatCenXtraReport.resources
+C:\Users\Сергей\documents\visual studio 2013\Projects\MatCen\MatCen\obj\Debug\MatCen.csprojResolveAssemblyReference.cache

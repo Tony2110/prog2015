@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Sportsmens xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Данил</Name>
+  <Surname>Ахметов </Surname>
+  <Patronimyc>Маратович</Patronimyc>
+  <Gender>Male</Gender>
+  <razryad>1</razryad>
+  <DateofBithday>1995-09-11T19:54:03</DateofBithday>
+  <team>УрФУ</team>
+  <Dost>
+    <DostData>
+      <Date>2015-02-23T19:54:44</Date>
+      <Start>Каменный пояс</Start>
+      <finish>1</finish>
+      <Distantion>34</Distantion>
+    </DostData>
+  </Dost>
+</Sportsmens>

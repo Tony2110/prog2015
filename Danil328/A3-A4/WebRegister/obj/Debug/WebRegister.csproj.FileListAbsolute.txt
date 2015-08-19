@@ -1,0 +1,222 @@
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\WebRegister.dll.config
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\WebRegister.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\WebRegister.pdb
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Antlr3.Runtime.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\EntityFramework.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\EntityFramework.SqlServer.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.Owin.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.Owin.Security.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Newtonsoft.Json.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Owin.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\System.Web.Helpers.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\System.Web.Mvc.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\System.Web.Optimization.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\System.Web.Razor.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\System.Web.WebPages.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\WebGrease.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\System.Web.Helpers.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\System.Web.Mvc.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\System.Web.Optimization.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\System.Web.Razor.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\System.Web.WebPages.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Newtonsoft.Json.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Antlr3.Runtime.pdb
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\EntityFramework.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\EntityFramework.SqlServer.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.Owin.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.Owin.Security.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\ru\EntityFramework.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\obj\Debug\WebRegister.csprojResolveAssemblyReference.cache
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\obj\Debug\WebRegister.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens\WebRegister\obj\Debug\WebRegister.pdb
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\WebRegister.dll.config
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\WebRegister.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\WebRegister.pdb
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Antlr3.Runtime.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\EntityFramework.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\EntityFramework.SqlServer.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.Owin.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.Owin.Security.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Newtonsoft.Json.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Owin.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\System.Web.Helpers.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\System.Web.Mvc.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\System.Web.Optimization.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\System.Web.Razor.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\System.Web.WebPages.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\WebGrease.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\System.Web.Helpers.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\System.Web.Mvc.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\System.Web.Optimization.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\System.Web.Razor.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\System.Web.WebPages.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Newtonsoft.Json.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Antlr3.Runtime.pdb
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\EntityFramework.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\EntityFramework.SqlServer.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.Owin.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.Owin.Security.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\ru\EntityFramework.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\obj\Debug\WebRegister.csprojResolveAssemblyReference.cache
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\obj\Debug\WebRegister.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\Sportsmens - копия\WebRegister\obj\Debug\WebRegister.pdb
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\WebRegister.dll.config
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\WebRegister.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\WebRegister.pdb
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Antlr3.Runtime.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\EntityFramework.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\EntityFramework.SqlServer.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.Owin.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.Owin.Security.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Newtonsoft.Json.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Owin.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\System.Web.Helpers.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\System.Web.Mvc.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\System.Web.Optimization.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\System.Web.Razor.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\System.Web.WebPages.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\WebGrease.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\System.Web.Helpers.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\System.Web.Mvc.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\System.Web.Optimization.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\System.Web.Razor.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\System.Web.WebPages.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Newtonsoft.Json.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Antlr3.Runtime.pdb
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\EntityFramework.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\EntityFramework.SqlServer.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.Owin.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.Owin.Security.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\ru\EntityFramework.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\obj\Debug\WebRegister.csprojResolveAssemblyReference.cache
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\obj\Debug\WebRegister.dll
+C:\Users\Danil\YandexDisk\Институт\2 курс\Программирование\A3-A4\WebRegister\obj\Debug\WebRegister.pdb

@@ -1,0 +1,52 @@
+﻿@{
+    ViewBag.Title = "qwerty Test";
+}
+<script language="javascript">
+    doButtonCllick = function () {
+        var TestingString;
+        var num;
+        var lang;
+        var Arr = new Array(Number(NumTest.value));
+
+        TextTest.value = TestingString;
+    }
+    SendSome = function()
+    {
+        var Path = Open.name.Tostring();
+        
+    }
+</script>
+
+<h4>Введите ФИО: </h4>
+<input id="UserName" type="text" />
+
+<h4>Количество символов в тесте:</h4>
+<select id="NumTest">
+    <option>10</option>
+    <option>15</option>
+    <option>20</option>
+    <option>30</option>
+    <option>40</option>
+</select>
+
+<h4>Языки, учествующие в тесте:</h4>
+<div>
+    <input id="CheckRus" type="checkbox" /> Русский
+    <input id="CheckEng" type="checkbox" /> Английский
+</div>
+
+<input id="StartButton" type="button" value="Start" onclick="doButtonCllick()"/>
+<input id="TextTest" type="text" readonly="readonly" value=""/>
+<hr />
+<h3>Результаты тестов:</h3>
+@foreach(var item in Model)
+{
+    <hr />
+    @item.ToString();
+    <hr />
+}
+<hr />
+<form id="myForm" action="/home/upload" method="post" enctype="multipart/form-data">
+<input id="file" type="file" @*onclose="SendSome()"*@ name="file"/>
+    <button type="submit">Заполнить</button>
+</form>

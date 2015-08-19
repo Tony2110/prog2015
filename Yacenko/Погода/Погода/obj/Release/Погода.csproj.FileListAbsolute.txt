@@ -1,0 +1,10 @@
+C:\Users\Ваня\Documents\Visual Studio 2013\Projects\Погода\Погода\bin\Release\Погода.exe.config
+C:\Users\Ваня\Documents\Visual Studio 2013\Projects\Погода\Погода\bin\Release\Погода.exe
+C:\Users\Ваня\Documents\Visual Studio 2013\Projects\Погода\Погода\bin\Release\Погода.pdb
+C:\Users\Ваня\Documents\Visual Studio 2013\Projects\Погода\Погода\obj\Release\Interop.SpeechLib.dll
+C:\Users\Ваня\Documents\Visual Studio 2013\Projects\Погода\Погода\obj\Release\Погода.csproj.ResolveComReference.cache
+C:\Users\Ваня\Documents\Visual Studio 2013\Projects\Погода\Погода\obj\Release\Погода.Form1.resources
+C:\Users\Ваня\Documents\Visual Studio 2013\Projects\Погода\Погода\obj\Release\Погода.Properties.Resources.resources
+C:\Users\Ваня\Documents\Visual Studio 2013\Projects\Погода\Погода\obj\Release\Погода.csproj.GenerateResource.Cache
+C:\Users\Ваня\Documents\Visual Studio 2013\Projects\Погода\Погода\obj\Release\Погода.exe
+C:\Users\Ваня\Documents\Visual Studio 2013\Projects\Погода\Погода\obj\Release\Погода.pdb

@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>@ViewBag.Title.</h1>
+                <h2>@ViewBag.Message</h2>
+            </hgroup>
+        </div>
+    </section>
+}
+    <p>
+        @Html.Label("Информация касаемо мероприятия:")
+        <div>
+            @Html.Label("Дата:")
+            @Model.dateTimePicker1
+        </div>
+        <div>
+            @Html.Label("Время:")
+            @Model.Time
+        </div>
+        <div>
+            @Html.Label("Место:")
+            @Model.textBox6
+        </div>
+    </p>
+    <p> @Html.Label("Контакты руководителя группы:")
+        <div>
+            @Html.Label("ФИО:")
+            @Model.textBox5
+        </div>
+        <div>
+            @Html.Label("Телефон:")
+            @Model.textBox4
+        </div>
+        <div>
+            @Html.Label("Е-mail:")
+            @Model.textBox3
+        </div>
+    </p>
+<div>
+    @Html.Label("Состав группы:")
+</div>
+    @foreach (var People in Model.Form2)
+    {
+        <div>
+            @People
+        </div>
+    }
+<form id="Form2" action="/home/upload" method="post" enctype="multipart/form-data">
+    <input type="file" name="file" id="file"/>
+    <button type="submit">
+        Загрузить файл
+    </button>
+</form>

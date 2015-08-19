@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Sportsmens xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Данил</Name>
+  <Surname>Ахметов</Surname>
+  <Patronimyc>Маратович</Patronimyc>
+  <Gender>Male</Gender>
+  <razryad>1         </razryad>
+  <DateofBithday>1995-09-11T00:00:00</DateofBithday>
+  <team>УрФУ      </team>
+  <Dost>
+    <DostData>
+      <Date>1995-09-11T00:00:00</Date>
+      <Start>Danil</Start>
+      <finish>1</finish>
+      <Distantion>10</Distantion>
+    </DostData>
+    <DostData>
+      <Date>1995-09-11T00:00:00</Date>
+      <Start>Danilыыыаыа</Start>
+      <finish>1</finish>
+      <Distantion>10</Distantion>
+    </DostData>
+    <DostData>
+      <Date>1995-09-11T00:00:00</Date>
+      <Start>313131</Start>
+      <finish>1</finish>
+      <Distantion>10</Distantion>
+    </DostData>
+  </Dost>
+</Sportsmens>

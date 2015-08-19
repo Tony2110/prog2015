@@ -1,0 +1,36 @@
+c:\users\ваня\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\ваня\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\ваня\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\ваня\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\ваня\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\ваня\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\ваня\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\ваня\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ваня\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\Ваня\Desktop\Лаба 2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ваня\Desktop\Лаба 2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ваня\Desktop\Лаба 2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ваня\Desktop\Лаба 2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ваня\Desktop\Лаба 2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ваня\Desktop\Лаба 2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ваня\Desktop\Лаба 2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\Ваня\Desktop\Лаба 2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ваня\Desktop\Лаба 2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Ваня\Desktop\Лаба 2 — копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ваня\Desktop\Лаба 2 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ваня\Desktop\Лаба 2 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ваня\Desktop\Лаба 2 — копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ваня\Desktop\Лаба 2 — копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ваня\Desktop\Лаба 2 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\Ваня\Desktop\Лаба 2 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ваня\Desktop\Лаба 2 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Ваня\Desktop\Лаба 2 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.QF.resources
+C:\Users\Ваня\Desktop\Лаба 2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.QF.resources
+C:\Users\Ваня\Desktop\Лаба 2\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\Ваня\Desktop\Лаба 2\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\Ваня\Desktop\Лаба 2 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.licenses
+C:\Users\Ваня\Desktop\Лаба 2 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.XtraReport1.resources
+C:\Users\Ваня\Desktop\Лаба 2 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ваня\Desktop\A2,A3 — копия\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ваня\Desktop\A2,A3 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ваня\Desktop\A2,A3 — копия\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

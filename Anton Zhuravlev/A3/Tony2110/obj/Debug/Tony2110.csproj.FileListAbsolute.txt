@@ -1,0 +1,12 @@
+c:\users\антон\documents\visual studio 2013\Projects\Tony2110\Tony2110\bin\Debug\Tony2110.exe.config
+c:\users\антон\documents\visual studio 2013\Projects\Tony2110\Tony2110\bin\Debug\Tony2110.exe
+c:\users\антон\documents\visual studio 2013\Projects\Tony2110\Tony2110\bin\Debug\Tony2110.pdb
+c:\users\антон\documents\visual studio 2013\Projects\Tony2110\Tony2110\obj\Debug\Tony2110.Form1.resources
+c:\users\антон\documents\visual studio 2013\Projects\Tony2110\Tony2110\obj\Debug\Tony2110.Properties.Resources.resources
+c:\users\антон\documents\visual studio 2013\Projects\Tony2110\Tony2110\obj\Debug\Tony2110.csproj.GenerateResource.Cache
+c:\users\антон\documents\visual studio 2013\Projects\Tony2110\Tony2110\obj\Debug\Tony2110.exe
+c:\users\антон\documents\visual studio 2013\Projects\Tony2110\Tony2110\obj\Debug\Tony2110.pdb
+c:\users\антон\documents\visual studio 2013\Projects\Tony2110\Tony2110\obj\Debug\Tony2110.csprojResolveAssemblyReference.cache
+c:\users\антон\documents\visual studio 2013\Projects\Tony2110\Tony2110\obj\Debug\Tony2110.ServiceForm.resources
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Tony2110\Tony2110\obj\Debug\Tony2110.Print.resources
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Tony2110\Tony2110\obj\Debug\Tony2110.exe.licenses

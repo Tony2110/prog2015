@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "Home Page";
+
+}
+
+<div>
+    @Html.Label("Имя")
+    @Model.Name
+</div>
+<div>
+    @Html.Label("Фамилия")
+    @Model.Surname
+</div>
+<div>
+    @Html.Label("Отчество")
+    @Model.Patronimyc
+</div>
+<div>
+    @Model.GenderInRussian
+
+
+</div>
+
+@foreach (var employment in Model.Employments)
+{
+    <div>
+        @employment
+    </div>
+}
+
+
+<form id="myForm" action="/home/upload" method="post" enctype="multipart/form-data">
+    <input type="file" name="file" id="file" />
+    <button type="submit">
+        Отправить
+    </button>
+</form>

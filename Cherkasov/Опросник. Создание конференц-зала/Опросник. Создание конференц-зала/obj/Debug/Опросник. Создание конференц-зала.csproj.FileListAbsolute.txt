@@ -1,0 +1,13 @@
+c:\users\ваня\documents\visual studio 2013\Projects\Опросник. Создание конференц-зала\Опросник. Создание конференц-зала\bin\Debug\Опросник.Создание_конференц_зала.exe.config
+c:\users\ваня\documents\visual studio 2013\Projects\Опросник. Создание конференц-зала\Опросник. Создание конференц-зала\obj\Debug\Опросник. Создание конференц-зала.csprojResolveAssemblyReference.cache
+c:\users\ваня\documents\visual studio 2013\Projects\Опросник. Создание конференц-зала\Опросник. Создание конференц-зала\obj\Debug\Опросник.Создание_конференц_зала.Form1.resources
+c:\users\ваня\documents\visual studio 2013\Projects\Опросник. Создание конференц-зала\Опросник. Создание конференц-зала\obj\Debug\Опросник.Создание_конференц_зала.FormHello.resources
+c:\users\ваня\documents\visual studio 2013\Projects\Опросник. Создание конференц-зала\Опросник. Создание конференц-зала\obj\Debug\Опросник.Создание_конференц_зала.Properties.Resources.resources
+c:\users\ваня\documents\visual studio 2013\Projects\Опросник. Создание конференц-зала\Опросник. Создание конференц-зала\obj\Debug\Опросник. Создание конференц-зала.csproj.GenerateResource.Cache
+c:\users\ваня\documents\visual studio 2013\Projects\Опросник. Создание конференц-зала\Опросник. Создание конференц-зала\bin\Debug\Опросник.Создание_конференц_зала.exe
+c:\users\ваня\documents\visual studio 2013\Projects\Опросник. Создание конференц-зала\Опросник. Создание конференц-зала\bin\Debug\Опросник.Создание_конференц_зала.pdb
+c:\users\ваня\documents\visual studio 2013\Projects\Опросник. Создание конференц-зала\Опросник. Создание конференц-зала\obj\Debug\Опросник.Создание_конференц_зала.exe
+c:\users\ваня\documents\visual studio 2013\Projects\Опросник. Создание конференц-зала\Опросник. Создание конференц-зала\obj\Debug\Опросник.Создание_конференц_зала.pdb
+C:\Users\Ваня\Documents\Visual Studio 2013\Projects\Опросник. Создание конференц-зала\Опросник. Создание конференц-зала\obj\Debug\Опросник.Создание_конференц_зала.XtraReport1.resources
+C:\Users\Ваня\Documents\Visual Studio 2013\Projects\Опросник. Создание конференц-зала\Опросник. Создание конференц-зала\obj\Debug\Опросник.Создание_конференц_зала.exe.licenses
+C:\Users\Ваня\Documents\Visual Studio 2013\Projects\Опросник. Создание конференц-зала\Опросник. Создание конференц-зала\obj\Debug\Опросник.Создание_конференц_зала.EmptyControls.resources

@@ -1,0 +1,6 @@
+c:\users\фёдор\documents\visual studio 2013\Projects\ConsoleApplicationOTG\ConsoleApplicationOTG\bin\Debug\ConsoleApplicationOTG.exe.config
+c:\users\фёдор\documents\visual studio 2013\Projects\ConsoleApplicationOTG\ConsoleApplicationOTG\bin\Debug\ConsoleApplicationOTG.exe
+c:\users\фёдор\documents\visual studio 2013\Projects\ConsoleApplicationOTG\ConsoleApplicationOTG\bin\Debug\ConsoleApplicationOTG.pdb
+c:\users\фёдор\documents\visual studio 2013\Projects\ConsoleApplicationOTG\ConsoleApplicationOTG\obj\Debug\ConsoleApplicationOTG.exe
+c:\users\фёдор\documents\visual studio 2013\Projects\ConsoleApplicationOTG\ConsoleApplicationOTG\obj\Debug\ConsoleApplicationOTG.pdb
+c:\users\фёдор\documents\visual studio 2013\Projects\ConsoleApplicationOTG\ConsoleApplicationOTG\obj\Debug\ConsoleApplicationOTG.csprojResolveAssemblyReference.cache

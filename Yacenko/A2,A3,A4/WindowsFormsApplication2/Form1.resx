@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label10.Text" xml:space="preserve">
+    <value>При запуске приложения выберите язык. Затем, после нажатия клавиши "Начать" в синей области появятся буквы, которые вы должны как можно быстрее найти на клавиатуре и нажать (красные - Русские, синие - Английские). Для прохождения теста необходимо нажать N клавиш клавиатуры (N - Значение, которое задаётся ползунком над синей областью) равно количеству букв, последовательно выводимых на синий экран. После прохождения теста становится доступной фиксация его результатов (с помощью клавиши "Зафиксировать"). Зафиксированые результаты пройденых тестов можно посмотреть во вкладке "Результаты". При случайном удаление последнего результата его можно востановить из первой вкладки.</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAMAEBAAAAEAIABoBAAANgAAACAgAAABACAAqBAAAJ4EAAAwMAAAAQAgAKglAABGFQAAKAAAABAA
+        AAAgAAAAAQAgAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAP++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT/8EQr//8kA///JAP/8Eox//++
+        tP//vrT//760//++tP//vrT//760/0U03f8DA///AwP//zgq4f//vrT//760//B8a///JAP//yQD//Ym
+        Bv/5tKn//760//++tP//vrT//760/++zsv8GBfj/AwP//wMD//+RbMb//760//++tP/4sqf/9iYG//8k
+        A///JAP/8oZ1//++tP//vrT//760//++tP+geMH/AwP//wMD//8GBfj/5Kqy//++tP//vrT//760/+9R
+        Ov//JAP//yQD//YkBf/uJQf/7iUH/wcG8/8JB+3/BQX1/wMD//8DA///RjXc//++tP//vrT//760//++
+        tP/winv//yQD//8kA///JAP//yQD//8kA/8DA///AwP//wMD//8DA///AwP//6B4wf//vrT//760//++
+        tP//vrT//byy//IqDP//JAP//yQD/+dOOP/qY0//Z03T/0s42/8DA///AwP//woI8//1t7P//760//++
+        tP//vrT//760//++tP/xYkz//yQD//8kA//waFP//760//++tP9qT9f/AwP//wMD//9WQdb//760//++
+        tP//vrT//760//++tP//vrT/8ZqN//8kA///JAP/7jYa//++tP//vrT/FhHw/wMD//8DA///sIO8//++
+        tP//vrT//760//++tP//vrT//760//++tP/xNxv//yQD//8kA//woJT/wZDB/wMD//8DA///Ew/u//u7
+        s///vrT//760//++tP//vrT//760//++tP//vrT/8G9b//8kA///JAP/8G1a/21S2v8DA///AwP//2hO
+        0v//vrT//760//++tP//vrT//760//++tP//vrT//760//Ommv/8JAP//yQD//BAJf8bFfT/AwP//wMD
+        ///Ekrf//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT/8EQr//8kA//2JAX/AwP//wMD
+        //8gGen//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//B+bP//JAP//yQD/wMD
+        //8DA///elzO//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP/5tKn/9iYG//8k
+        A/8DA///AwP9/9SetP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKAAAACAAAABAAAAAAQAgAAAA
+        AAAAEAAAAAAAAAAAAAAAAAAAAAAAAP++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760/9xIMv//JAP//yQD//8k
+        A///JAP//yQD//ImB//viHn//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT/qn+9/wkH8f8DA///AwP//wMD//8DA///AwP//z8wyP//vrT//760//++tP//vrT/74Jx//Yk
+        BP//JAP//yQD//8kA///JAP//yQD/+BXQv//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP9cRcb/AwP//wMD//8DA///AwP//wMD//8EBPj/mHLD//++tP//vrT//760//++
+        tP/voZb/7zog//8kA///JAP//yQD//8kA///JAP/4CsQ//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760/w8M4v8DA///AwP//wMD//8DA///AwP//yge4//Qm7H//760//++
+        tP//vrT//760//28sv/kWUT//yQD//8kA///JAP//yQD//8kA//7JAP/5pWJ//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP/BkK7/AwP//wMD//8DA///AwP//wMD//8DA///VD/R//i5
+        s///vrT//760//++tP//vrT//760/+SPgv/7JAP//yQD//8kA///JAP//yQD//8kA//gX0v//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760/2lOwv8DA///AwP//wMD//8DA///AwP//wMD
+        //+heK3//760//++tP//vrT//760//++tP//vrT//760/+ArEP//JAP//yQD//8kA///JAP//yQD//JK
+        MP/2sab//760//++tP//vrT//760//++tP//vrT//760//++tP/gp7H/OCvf/wMD//8DA///AwP//wMD
+        //8DA///Dwzi//G0sv//vrT//760//++tP//vrT//760//++tP//vrT/5mhV//wkA///JAP//yQD//8k
+        A///JAP/+SQE/+ImCf/eJwv/3icL/94nC//eJwv/Bwbz/w4L2v8OC9r/Dgva/wwJ4P8EBPj/AwP//wMD
+        //8DA///AwP//wMD//9cRcb//760//++tP//vrT//760//++tP//vrT//760//++tP/ukIL/7ikM//8k
+        A///JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD//8kA/8DA///AwP//wMD//8DA///AwP//wMD
+        //8DA///AwP//wMD//8DA///DAnv/62Bu///vrT//760//++tP//vrT//760//++tP//vrT//760//m1
+        qv/vTjb//yQD//8kA///JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD/wMD//8DA///AwP//wMD
+        //8DA///AwP//wMD//8DA///AwP//wMD//84K9//4Kex//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760/9lnVv//JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD//8kA///JAP/AwP//wMD
+        //8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//2lOwv//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT/+LSr//ImB///JAP//yQD//8kA///JAP//yQD/+0pC//qMBT/6jAU/+ow
+        FP8LCfb/GxXj/xsV4/8LCfb/AwP//wMD//8DA///AwP//wMD//8EBPj/16Gu//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT/1zwk//8kA///JAP//yQD//8kA///JAP/2ks1/+qW
+        iv/qlor/6paK/7OGxP/DkbH/w5Gx/0My5f8DA///AwP//wMD//8DA///AwP//x0W1f//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP/0jHz/9CYG//8kA///JAP//yQD//8k
+        A//xQSb/8aic//++tP//vrT//760//++tP/Qm6//KB/h/wMD//8DA///AwP//wMD//8EBPr/hGPC//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760/+2ekf/tNxv//yQD//8k
+        A///JAP//yQD/+8oCv/vj4D//760//++tP//vrT//760/6uAzf8DA///AwP//wMD//8DA///AwP//xQP
+        5/+8jLX//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760/+Rc
+        SP//JAP//yQD//8kA///JAP//yQD/+ReSv//vrT//760//++tP//vrT/TTvD/wMD//8DA///AwP//wMD
+        //8DA///TTrY//G0sv//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT/5I+C//8kA///JAP//yQD//8kA///JAP/1zAX//++tP//vrT//760//++tP8DA///AwP//wMD
+        //8DA///AwP//wMD//+DYrP//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT/3iwR//8kA///JAP//yQD//8kA///JAP/6p2S//++tP//vrT/sIS1/wMD
+        //8DA///AwP//wMD//8DA///CQfx//Gzsf//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP/qZlT//yQD//8kA///JAP//yQD//8kA//YZlX//760//++
+        tP9XQeb/AwP//wMD//8DA///AwP//wMD//87Lcn//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760/+yShP/sLA7//yQD//8kA///JAP//yQD//VH
+        Lf/1raP/2KG1/zAk5/8DA///AwP//wMD//8DA///CAbz/7CDwf//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT/+LKn//FLMv//JAP//yQD//8k
+        A///JAP/6y0Q/+uUhv+rgM3/AwP//wMD//8DA///AwP//wMD//8gGeP/yJax//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT/2XBg//8k
+        A///JAP//yQD//8kA//7JAP/73Zk/2RL0/8DA///AwP//wMD//8DA///AwP//2VMxv//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP/0raL/8iQE//8kA///JAP//yQD//8kA//WQSv/AwP//wMD//8DA///AwP//wMD//8DA///q4Ct//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP/cSDL//yQD//8kA///JAP//yQD/+IlCf8DA///AwP//wMD//8DA///AwP//xUR
+        3v//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760/++Ccf/2JAT//yQD//8kA///JAP/+SQE/wMD//8DA///AwP//wMD
+        //8DA///Z03G//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT/8KSZ//A9I///JAP//yQD//8kA///JAP/AwP//wMD
+        //8DA///AwP//w8M6/+3ibn//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP/9vLL/5FlE//8kA///JAP//yQD//8k
+        A/8DA///AwP//wMD//8DA///Pi/j/+arsf//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP/mlYn/+yQD//8k
+        A///JAP//yQD/wMD//8DA///AwP//wMD//93Wbb//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP/gKxD//yQD//8kA///JAP/AwP//wMD//8DA///AwP3/9uksf//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAAAAwAAAAYAAAAAEA
+        IAAAAAAAACQAAAAAAAAAAAAAAAAAAAAAAAD/vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP+/PSr//yQD//8kA///JAP//yQD//8kA///JAP//yQD//8kA///JAP/xi4W//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT/Hxe+/wMD//8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//zos
+        r///vrT//760//++tP//vrT//760//++tP/ilYn//yQD//8kA///JAP//yQD//8kA///JAP//yQD//8k
+        A///JAP//yQD/++on///vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP/fpq7/AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD
+        //8DA///AwP//6V8p///vrT//760//++tP//vrT//760//++tP//vrT/1SQJ//8kA///JAP//yQD//8k
+        A///JAP//yQD//8kA///JAP//yQD/8JUQ///vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP9dR6j/AwP//wMD//8DA///AwP//wMD
+        //8DA///AwP//wMD//8DA///CAfg//++tP//vrT//760//++tP//vrT//760//++tP//vrT/v0c2//8k
+        A///JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD/8I1H///vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP8fF77/AwP//wMD
+        //8DA///AwP//wMD//8DA///AwP//wMD//8DA///Sjiq//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT/76if//8kA///JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD/+4jBP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD//8DA///wJCq//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760/8YuFv//JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD//8k
+        A//GYVP//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760/3NXpv8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD//8MCdL//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760/8JUQ///JAP//yQD//8kA///JAP//yQD//8k
+        A///JAP//yQD//8kA//CNR///760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760/ysgtv8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD
+        //9KOKr//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP/uIwT//yQD//8k
+        A///JAP//yQD//8kA///JAP//yQD//8kA//uIwT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760/wQE7v8DA///AwP//wMD//8DA///AwP//wMD
+        //8DA///AwP//wMD///AkKr//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP/CNR///yQD//8kA///JAP//yQD//8kA///JAP//yQD//8kA///JAP/1oN2//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT/c1em/wMD//8DA///AwP//wMD
+        //8DA///AwP//wMD//8DA///AwP//x8Xvv//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP/NcWP//yQD//8kA///JAP//yQD//8kA///JAP//yQD//8kA///JAP/4iMG/80o
+        D//NKA//zSgP/80oD//NKA//zSgP/80oD/8DA///FA/I/xQPyP8UD8j/FA/I/xQPyP8UD8j/CAfg/wMD
+        //8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//11HqP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT/4iMG//8kA///JAP//yQD//8kA///JAP//yQD//8k
+        A///JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD//8kA/8DA///AwP//wMD//8DA///AwP//wMD
+        //8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//9+mrv//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT/vz0q//8kA///JAP//yQD//8k
+        A///JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD//8kA/8DA///AwP//wMD
+        //8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD//8DA///KyC2//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT/4pWJ//8k
+        A///JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD//8k
+        A/8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD
+        //8DA///c1em//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760/9UkCf//JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD//8k
+        A///JAP//yQD//8kA/8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD
+        //8DA///AwP//wMD//8EBO7//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760/79HNv//JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD//8k
+        A///JAP//yQD//8kA///JAP//yQD//8kA/8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD
+        //8DA///AwP//wMD//8DA///AwP//wMD//8rILb//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760/++on///JAP//yQD//8kA///JAP//yQD//8k
+        A///JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD//8kA/8DA///AwP//wMD//8DA///AwP//wMD
+        //8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD//+lfKf//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP/GLhb//yQD//8k
+        A///JAP//yQD//8kA///JAP//yQD//8kA//NKA//v0c2/79HNv+/Rzb/v0c2/79HNv8DA///Sjiq/0o4
+        qv9KOKr/Sjiq/wMD//8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//wgH4P//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP/CVEP//yQD//8kA///JAP//yQD//8kA///JAP//yQD//8kA//VJAn//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760/wMD//8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//zos
+        r///vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT/7iME//8kA///JAP//yQD//8kA///JAP//yQD//8kA///JAP/4pWJ//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT/qoB5/wMD//8DA///AwP//wMD//8DA///AwP//wMD
+        //8DA///AwP//6V8p///vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT/wjUf//8kA///JAP//yQD//8kA///JAP//yQD//8k
+        A///JAP/v0c2//++tP//vrT//760//++tP//vrT//760//++tP//vrT/AwP//wMD//8DA///AwP//wMD
+        //8DA///AwP//wMD//8DA///DAnS//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT/zXFj//8kA///JAP//yQD//8k
+        A///JAP//yQD//8kA///JAP/1SQJ//++tP//vrT//760//++tP//vrT//760//++tP//vrT/AwP//wMD
+        //8DA///AwP//wMD//8DA///AwP//wMD//8DA///Sjiq//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760/+Ij
+        Bv//JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD/+KVif//vrT//760//++tP//vrT//760//++
+        tP+qgHn/AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD//8DA///wJCq//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760/789Kv//JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD/79HNv//vrT//760//++
+        tP//vrT//760//++tP8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD//8UD8j//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760/+KVif//JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD/8Yu
+        Fv//vrT//760//++tP//vrT//760//++tP8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD
+        //9dR6j//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP/VJAn//yQD//8kA///JAP//yQD//8k
+        A///JAP//yQD//8kA//vqJ///760//++tP//vrT//760/8yZkf8DA///AwP//wMD//8DA///AwP//wMD
+        //8DA///AwP//wMD///fpq7//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP+/Rzb//yQD//8k
+        A///JAP//yQD//8kA///JAP//yQD//8kA//CVEP//760//++tP//vrT//760/wMD//8DA///AwP//wMD
+        //8DA///AwP//wMD//8DA///AwP//x8Xvv//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP/vqJ///yQD//8kA///JAP//yQD//8kA///JAP//yQD//8kA//GLhb//760//++tP//vrT//760/wMD
+        //8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//3NXpv//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT/xi4W//8kA///JAP//yQD//8kA///JAP//yQD//8kA///JAP/76if//++
+        tP//vrT/zJmR/wMD//8DA///AwP//wMD//8DA///AwP//wMD//8DA///BATu//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT/wlRD//8kA///JAP//yQD//8kA///JAP//yQD//8k
+        A///JAP/wlRD//++tP//vrT/AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD//8DA///KyC2//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760/+4jBP//JAP//yQD//8k
+        A///JAP//yQD//8kA///JAP/wjUf//++tP//vrT/AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD
+        //8DA///c1em//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760/8I1
+        H///JAP//yQD//8kA///JAP//yQD//8kA///JAP/7iME//++tP/dpp3/AwP//wMD//8DA///AwP//wMD
+        //8DA///AwP//wMD//8IB+D//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760/81xY///JAP//yQD//8kA///JAP//yQD//8kA///JAP//yQD/8ZhU/8DA///AwP//wMD
+        //8DA///AwP//wMD//8DA///AwP//wMD//86LK///760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP/iIwb//yQD//8kA///JAP//yQD//8kA///JAP//yQD/79H
+        Nf8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//wMD//+lfKf//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP+/PSr//yQD//8kA///JAP//yQD//8k
+        A///JAP//yQD/80nD/8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//wgH4P//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP/ilYn//yQD//8k
+        A///JAP//yQD//8kA///JAP//yQD/+IjBv8DA///AwP//wMD//8DA///AwP//wMD//8DA///AwP//0o4
+        qv//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT/1SQJ//8kA///JAP//yQD//8kA///JAP//yQD//8kA/8DA///AwP//wMD//8DA///AwP//wMD
+        //8DA///AwP//8CQqv//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT/wlRD//8kA///JAP//yQD//8kA///JAP//yQD//8kA/8DA///AwP//wMD
+        //8DA///AwP//wMD//8DA///DAnS//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT/76if//8kA///JAP//yQD//8kA///JAP//yQD//8k
+        A/8DA///AwP//wMD//8DA///AwP//wMD//8DA///XUeo//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760/8YuFv//JAP//yQD//8k
+        A///JAP//yQD//8kA/8DA///AwP//wMD//8DA///AwP//wMD//8DA///36au//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760/8Zh
+        U///JAP//yQD//8kA///JAP//yQD//8kA/8DA///AwP//wMD//8DA///AwP//wMD//8fF77//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP/uIwT//yQD//8kA///JAP//yQD//8kA/8DA///AwP//wMD//8DA///AwP//wMD
+        //9dR6j//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP/CNR///yQD//8kA///JAP//yQD//8kA/8DA///AwP//wMD
+        //8DA///AwP//wQE7v//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++tP//vrT//760//++
+        tP8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+</value>
+  </data>
+</root>

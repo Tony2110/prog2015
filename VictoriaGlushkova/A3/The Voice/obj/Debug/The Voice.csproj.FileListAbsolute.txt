@@ -1,0 +1,23 @@
+C:\Users\Владимир\Desktop\The Voice\The Voice\bin\Debug\The Voice.exe.config
+C:\Users\Владимир\Desktop\The Voice\The Voice\bin\Debug\The Voice.exe
+C:\Users\Владимир\Desktop\The Voice\The Voice\bin\Debug\The Voice.pdb
+C:\Users\Владимир\Desktop\The Voice\The Voice\obj\Debug\The Voice.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\The Voice\The Voice\obj\Debug\The_Voice.Form1.resources
+C:\Users\Владимир\Desktop\The Voice\The Voice\obj\Debug\The_Voice.Properties.Resources.resources
+C:\Users\Владимир\Desktop\The Voice\The Voice\obj\Debug\The Voice.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\The Voice\The Voice\obj\Debug\The Voice.exe
+C:\Users\Владимир\Desktop\The Voice\The Voice\obj\Debug\The Voice.pdb
+C:\Users\Владимир\Desktop\The Voice (print)\The Voice\bin\Debug\The Voice.exe.config
+C:\Users\Владимир\Desktop\The Voice (print)\The Voice\obj\Debug\The Voice.exe
+C:\Users\Владимир\Desktop\The Voice (print)\The Voice\obj\Debug\The Voice.pdb
+C:\Users\Владимир\Desktop\The Voice (print)\The Voice\bin\Debug\The Voice.exe
+C:\Users\Владимир\Desktop\The Voice (print)\The Voice\bin\Debug\The Voice.pdb
+C:\Users\Владимир\Desktop\The Voice (print)\The Voice\obj\Debug\The Voice.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\The Voice (print)\The Voice\obj\Debug\The_Voice.Form1.resources
+C:\Users\Владимир\Desktop\The Voice (print)\The Voice\obj\Debug\The_Voice.Properties.Resources.resources
+C:\Users\Владимир\Desktop\The Voice (print)\The Voice\obj\Debug\The Voice.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\The Voice (print)\The Voice\obj\Debug\The Voice.exe.licenses
+C:\Users\Владимир\Desktop\The Voice (print)\The Voice\obj\Debug\The_Voice.TheVoiceReport.resources
+C:\Users\Владимир\Desktop\A3\The Voice\bin\Debug\The Voice.exe.config
+C:\Users\Владимир\Desktop\A3\The Voice\obj\Debug\The Voice.exe
+C:\Users\Владимир\Desktop\A3\The Voice\obj\Debug\The Voice.pdb

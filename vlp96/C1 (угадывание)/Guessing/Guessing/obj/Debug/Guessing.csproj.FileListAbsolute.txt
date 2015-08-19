@@ -1,0 +1,6 @@
+C:\Users\Владимир\Desktop\Guessing\Guessing\bin\Debug\Guessing.exe.config
+C:\Users\Владимир\Desktop\Guessing\Guessing\bin\Debug\Guessing.exe
+C:\Users\Владимир\Desktop\Guessing\Guessing\bin\Debug\Guessing.pdb
+C:\Users\Владимир\Desktop\Guessing\Guessing\obj\Debug\Guessing.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\Guessing\Guessing\obj\Debug\Guessing.exe
+C:\Users\Владимир\Desktop\Guessing\Guessing\obj\Debug\Guessing.pdb

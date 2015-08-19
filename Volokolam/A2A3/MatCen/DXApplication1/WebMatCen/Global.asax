@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="WebMatCen.MvcApplication" Language="C#" %>

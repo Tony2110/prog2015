@@ -1,0 +1,31 @@
+C:\Documents and Settings\Admin\Рабочий стол\Recipe\Recipe\bin\Debug\Recipe.exe
+C:\Documents and Settings\Admin\Рабочий стол\Recipe\Recipe\bin\Debug\Recipe.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Recipe\Recipe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\Recipe\Recipe\obj\x86\Debug\Recipe.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\Recipe\Recipe\obj\x86\Debug\Recipe.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\Recipe\Recipe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Recipe\Recipe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Recipe\Recipe\obj\x86\Debug\Recipe.exe
+C:\Documents and Settings\Admin\Рабочий стол\Recipe\Recipe\obj\x86\Debug\Recipe.pdb
+G:\Recipe\Recipe\obj\x86\Debug\Recipe.exe
+G:\Recipe\Recipe\obj\x86\Debug\Recipe.pdb
+C:\Users\samsung\Desktop\Recipe\Recipe\obj\x86\Debug\Recipe.exe
+C:\Users\samsung\Desktop\Recipe\Recipe\obj\x86\Debug\Recipe.pdb
+C:\Users\samsung\Desktop\Recipe\Recipe\bin\Debug\Recipe.exe
+C:\Users\samsung\Desktop\Recipe\Recipe\bin\Debug\Recipe.pdb
+C:\Users\samsung\Desktop\Recipe\Recipe\obj\x86\Debug\Recipe.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\Recipe\Recipe\obj\x86\Debug\Recipe.Form1.resources
+C:\Users\samsung\Desktop\Recipe\Recipe\obj\x86\Debug\Recipe.Ingredient.resources
+C:\Users\samsung\Desktop\Recipe\Recipe\obj\x86\Debug\Recipe.Properties.Resources.resources
+C:\Users\samsung\Desktop\Recipe\Recipe\obj\x86\Debug\Recipe.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\C#\Recipe\Recipe\obj\x86\Debug\Recipe.exe
+C:\Users\samsung\Desktop\C#\Recipe\Recipe\obj\x86\Debug\Recipe.pdb
+C:\Users\samsung\Desktop\C#\Recipe\Recipe\bin\Debug\Recipe.exe
+C:\Users\samsung\Desktop\C#\Recipe\Recipe\bin\Debug\Recipe.pdb
+C:\Users\samsung\Desktop\C#\Recipe\Recipe\obj\x86\Debug\Recipe.csprojResolveAssemblyReference.cache
+C:\Users\samsung\Desktop\C#\Recipe\Recipe\obj\x86\Debug\Recipe.Form1.resources
+C:\Users\samsung\Desktop\C#\Recipe\Recipe\obj\x86\Debug\Recipe.Ingredient.resources
+C:\Users\samsung\Desktop\C#\Recipe\Recipe\obj\x86\Debug\Recipe.Properties.Resources.resources
+C:\Users\samsung\Desktop\C#\Recipe\Recipe\obj\x86\Debug\Recipe.csproj.GenerateResource.Cache
+C:\Users\samsung\Desktop\C#\Recipe\Recipe\obj\x86\Debug\Recipe.exe.licenses
+C:\Users\samsung\Desktop\C#\Recipe\Recipe\obj\x86\Debug\Recipe.PECHAT.resources
